@@ -17,6 +17,7 @@ First and foremost, I am passionate about writing code. Ever since writing my fi
 
 <img align="right" alt="GIF" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/working.gif?raw=true" width="500" height="320" />
 
+
 **Languages and Tools:**  
 
 
@@ -37,6 +38,8 @@ First and foremost, I am passionate about writing code. Ever since writing my fi
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SpartanHarshad&theme=flag-india&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
 </details>
+
+
 
 <details>
   <summary>:zap: Languages</summary>
