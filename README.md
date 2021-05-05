@@ -1,14 +1,16 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.instagram.com/sai_harsh_pawar/">
-  <img align="left" alt="Harshad Pawar" width="22px" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/instagram.svg" />
+<a href="https://www.linkedin.com/in/harshad-pawar5/">
+  <img align="left" alt="Harshad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Harshad46965980">
   <img align="left" alt="Harshad Pawar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/harshad-pawar5/">
-  <img align="left" alt="Harshad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.instagram.com/sai_harsh_pawar/">
+  <img align="left" alt="Harshad Pawar" width="22px" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/instagram.svg" />
 </a>
+
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SpartanHarshad.SpartanHarshad)
 
@@ -50,5 +52,7 @@ First and foremost, I am passionate about writing code. Ever since writing my fi
 </details>
 
 ![Harshad's github activity graph](https://activity-graph.herokuapp.com/graph?username=SpartanHarshad&theme=react-dark)
+<!--[![Harshad's github activity graph](https://activity-graph.herokuapp.com/graph?username=SpartanHarshad&theme=react-dark)](https://github.com/spartanharshad/github-readme-activity-graph)-->
 
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SpartanHarshad&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)--> 
 
