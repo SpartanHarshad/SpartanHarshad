@@ -18,6 +18,9 @@ First and foremost, I am passionate about writing code. Ever since writing my fi
 <img align="right" alt="GIF" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/working.gif?raw=true" width="500" height="320" />
 
 
+
+
+
 **Languages and Tools:**  
 
 
