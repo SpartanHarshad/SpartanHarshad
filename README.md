@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**SpartanHarshad/SpartanHarshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.instagram.com/sai_harsh_pawar/">
+  <img align="left" alt="Harshad Pawar" width="22px" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/instagram.svg" />
+</a>
+<a href="https://twitter.com/Harshad46965980">
+  <img align="left" alt="Harshad Pawar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/harshad-pawar5/">
+  <img align="left" alt="Harshad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=SpartanHarshad.SpartanHarshad)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+First and foremost, I am passionate about writing code. Ever since writing my first program in C and, the passion drove me to pursue computer science as my specialization of study at Pune university. I have good knowledge of computer basics, data structure and algorithms, and programming languages like C, Java,kotlin. Building some projects got me hands-on experience with java,kotlin, and SQLite, Room Database and trained me to become a more adaptive and collaborative professional. Currently, I am Pursuing Full Stack Android Development Course At Masai School. I am fascinated by building challenging projects and excelling in their development and looking forward to creating a symbol for myself as a Full Stack Android Developer.
+
+
+<img align="right" alt="GIF" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/working.gif?raw=true" width="500" height="320" />
+
+**Languages and Tools:**  
+
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&logoColor=48ff00)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=FFA518)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intelliJ-ide&logoColor=2C2255)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SpartanHarshad&theme=flag-india&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
+</details>
+
+<details>
+  <summary>:zap: Languages</summary>
+  <img align="left" alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpartanHarshad&layout=compact&theme=flag-india&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"" />
+</details>
