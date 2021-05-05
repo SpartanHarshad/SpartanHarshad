@@ -31,6 +31,8 @@ First and foremost, I am passionate about writing code. Ever since writing my fi
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intelliJ-ide&logoColor=2C2255)
 
+
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SpartanHarshad&theme=flag-india&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
