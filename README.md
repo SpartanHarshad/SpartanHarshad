@@ -48,3 +48,5 @@ First and foremost, I am passionate about writing code. Ever since writing my fi
   <summary>:zap: Languages</summary>
   <img align="left" alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpartanHarshad&layout=compact&theme=flag-india&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"" />
 </details>
+
+![Harshad's github activity graph](https://activity-graph.herokuapp.com/graph?username=SpartanHarshad&theme=react-dark)
