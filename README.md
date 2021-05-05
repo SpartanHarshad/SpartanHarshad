@@ -51,8 +51,8 @@ First and foremost, I am passionate about writing code. Ever since writing my fi
   <img align="left" alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpartanHarshad&layout=compact&theme=flag-india&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"" />
 </details>
 
-![Harshad's github activity graph](https://activity-graph.herokuapp.com/graph?username=SpartanHarshad&theme=react-dark)
-<!--[![Harshad's github activity graph](https://activity-graph.herokuapp.com/graph?username=SpartanHarshad&theme=react-dark)](https://github.com/spartanharshad/github-readme-activity-graph)-->
+<!--![Harshad's github activity graph](https://activity-graph.herokuapp.com/graph?username=SpartanHarshad&theme=react-dark)
+[![Harshad's github activity graph](https://activity-graph.herokuapp.com/graph?username=SpartanHarshad&theme=react-dark)](https://github.com/spartanharshad/github-readme-activity-graph)
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SpartanHarshad&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)--> 
 
