@@ -6,10 +6,9 @@
 <a href="https://twitter.com/Harshad46965980">
   <img align="left" alt="Harshad Pawar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://spartanharshad.github.io/">Portfolio</a>
-<!--<a href="https://www.instagram.com/sai_harsh_pawar/">
-  <img align="left" alt="Harshad Pawar" width="22px" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/instagram.svg" />
-</a>--->
+<a href="https://spartanharshad.github.io/">
+  <img align="left" alt="Harshad Pawar" width="22px" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/portfolio.svg" />
+</a>
 
 
 
