@@ -14,8 +14,12 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SpartanHarshad.SpartanHarshad)
 
-First and foremost, I am passionate about writing code. Ever since writing my first program in C and, the passion drove me to pursue computer science as my specialization of study at Pune university. I have good knowledge of computer basics, data structure and algorithms, and programming languages like C, Java,kotlin. Building some projects got me hands-on experience with java,kotlin, and SQLite, Room Database and trained me to become a more adaptive and collaborative professional. Currently, I am Pursuing Full Stack Android Development Course At Masai School. I am fascinated by building challenging projects and excelling in their development and looking forward to creating a symbol for myself as a Full Stack Android Developer.
-
++ 🔭 I'm an Android developer
++ 🌱 I'm currently learning Full Stack Android Developement At [Masai School](https://www.masaischool.com/)
++ 💬 Ask me about Android development
++ 📫 How to reach me: [Twitter](https://twitter.com/Harshad46965980)
++ 📝 [Resume](https://drive.google.com/file/d/1kbrQzvitCFDCiqs_nXVNtXXOWtHVTd8K/view)
++ 📝 [Portfolio](https://spartanharshad.github.io/)
 
 <img align="right" alt="GIF" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/working.gif?raw=true" width="500" height="320" />
 
