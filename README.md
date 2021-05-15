@@ -15,7 +15,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=SpartanHarshad.SpartanHarshad)
 
 + 🔭 I'm an Android developer
-+ 🌱 I'm currently learning Full Stack Android Developement At [Masai School](https://www.masaischool.com/)
++ 🌱 I'm currently learning Android Developement At [Masai School](https://www.masaischool.com/)
 + 💬 Ask me about Android development
 + 📫 How to reach me: [Twitter](https://twitter.com/Harshad46965980)
 + 📝 [Resume](https://drive.google.com/file/d/1kbrQzvitCFDCiqs_nXVNtXXOWtHVTd8K/view)
