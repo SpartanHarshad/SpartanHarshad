@@ -18,7 +18,7 @@
 + 🌱 I'm currently learning Android Developement At [Masai School](https://www.masaischool.com/)
 + 💬 Ask me about Android development
 + 📫 How to reach me: [Twitter](https://twitter.com/Harshad46965980)
-+ 📝 [Resume](https://drive.google.com/file/d/1kbrQzvitCFDCiqs_nXVNtXXOWtHVTd8K/view)
++ 📝 [Resume](https://drive.google.com/file/d/1gaZCPKyNF7A7glsWspK_KvRLpjjrgGaw/view?usp=sharing)
 + 📝 [Portfolio](https://spartanharshad.github.io/)
 
 <img align="right" alt="GIF" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/working.gif?raw=true" width="500" height="320" />
