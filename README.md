@@ -16,14 +16,15 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=SpartanHarshad.SpartanHarshad)
 
 + 🔭 I'm an anxious Android developer
-+ 🌱 After 7 Months of military-style coding training at [Masai School](https://www.masaischool.com/), now I am thrilled to be at the deployment phase of my new professional journey as an Android Developer.
-+ Currentelly working at [LJI](https://www.lji.io/) as Product Engineer.
++ 🌱 After 7 Months of military-style coding training at [Masai School](https://www.masaischool.com/), now i am working at [LJI](https://www.lji.io/) as Product Engineer
 + 💬 Ask me about Android development
-+ 📫 How to reach me: [Twitter](https://twitter.com/Harshad46965980)
++ 📫 How to reach me: harshadpawar8555@gmail.com
++ 💬 Trying to make coding accessible (on mobile) to all the coding enthusiast.
++ 💻 Have interest in Product building (from feature addition to research to UI/UX to developement to funnel optimsation)
 + 📝 [Resume](https://drive.google.com/file/d/1YLhIScmF_J0dJDNJiVac7cQH0M07fcoh/view?usp=sharing)
 + 📝 [Portfolio](https://spartanharshad.github.io/)
-+ Fun fact i am kid 🧒
-
++ ⚡ Fun fact i think <b>i am kid</b> 🧒
++ ✍️ Sharing my knowledge through Blogs <a>https://hashnode.com/@Harshad555</a> and Opensource Projects.
 <img align="right" alt="GIF" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/working.gif?raw=true" width="500" height="320" />
 
 
