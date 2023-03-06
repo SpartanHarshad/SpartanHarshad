@@ -1,4 +1,5 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I Am Harshad Pawar
+# from Malegon Maharashtra India 423203.
 
 <a href="https://www.linkedin.com/in/harshad-pawar5/">
   <img align="left" alt="Harshad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -14,7 +15,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SpartanHarshad.SpartanHarshad)
 
-+ 🔭 I'm an Android developer
++ 🔭 I'm an anxious Android developer
 + 🌱 After 7 Months of military-style coding training at [Masai School](https://www.masaischool.com/), now I am thrilled to be at the deployment phase of my new professional journey as an Android Developer.
 + Currentelly working at [LJI](https://www.lji.io/) as Product Engineer.
 + 💬 Ask me about Android development
