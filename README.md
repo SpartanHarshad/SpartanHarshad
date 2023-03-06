@@ -16,6 +16,7 @@
 
 + 🔭 I'm an Android developer
 + 🌱 After 7 Months of military-style coding training at [Masai School](https://www.masaischool.com/), now I am thrilled to be at the deployment phase of my new professional journey as an Android Developer.
++ Currentelly working at [LJI](https://https://www.lji.io/) as Product Engineer.
 + 💬 Ask me about Android development
 + 📫 How to reach me: [Twitter](https://twitter.com/Harshad46965980)
 + 📝 [Resume](https://drive.google.com/file/d/1YLhIScmF_J0dJDNJiVac7cQH0M07fcoh/view?usp=sharing)
