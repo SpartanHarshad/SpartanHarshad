@@ -22,6 +22,7 @@
 + 📫 How to reach me: [Twitter](https://twitter.com/Harshad46965980)
 + 📝 [Resume](https://drive.google.com/file/d/1YLhIScmF_J0dJDNJiVac7cQH0M07fcoh/view?usp=sharing)
 + 📝 [Portfolio](https://spartanharshad.github.io/)
++ Fun fact i am kid 🧒
 
 <img align="right" alt="GIF" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/working.gif?raw=true" width="500" height="320" />
 
@@ -42,6 +43,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intelliJ-ide&logoColor=2C2255)
+
+
+
+![Android Studio](https://www.iconsdb.com/icons/preview/green/android-6-xxl.png)
 
 
 
