@@ -25,7 +25,10 @@
 + 📝 [Portfolio](https://spartanharshad.github.io/)
 + ⚡ Fun fact i think <b>i am kid</b> 🧒
 + ✍️ Sharing my knowledge through Blogs <a>https://hashnode.com/@Harshad555</a> and Opensource Projects.
-<img align="right" alt="GIF" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/working.gif?raw=true" width="500" height="320" />
+
+[![Watch the video](https://github.com/SpartanHarshad/SpartanHarshad/blob/main/about_product_engineer.mp4)]
+
+<!--<img align="right" alt="GIF" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/working.gif?raw=true" width="500" height="320" />
 
 
 
