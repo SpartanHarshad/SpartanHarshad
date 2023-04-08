@@ -47,8 +47,6 @@
 
 
 
-![Android Studio](https://www.iconsdb.com/icons/preview/green/android-6-xxl.png)
-
 
 
 <details>
