@@ -23,15 +23,10 @@
 + 💻 Have interest in Product building (from feature addition to research to UI/UX to developement to funnel optimsation)
 + 📝 [Resume](https://drive.google.com/file/d/1YLhIScmF_J0dJDNJiVac7cQH0M07fcoh/view?usp=sharing)
 + 📝 [Portfolio](https://spartanharshad.github.io/)
-+ ⚡ Fun fact i think <b>i am kid</b> 🧒
++ ⚡ Fun fact i think .....
 + ✍️ Sharing my knowledge through Blogs <a>https://hashnode.com/@Harshad555</a> and Opensource Projects.
 
-[![Watch the video](https://github.com/SpartanHarshad/SpartanHarshad/blob/main/about_product_engineer.mp4)](https://github.com/SpartanHarshad/SpartanHarshad/blob/main/about_product_engineer.mp4)
-
 <img align="right" alt="GIF" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/working.gif?raw=true" width="500" height="320" />
-
-
-
 
 
 **Languages and Tools:**  
