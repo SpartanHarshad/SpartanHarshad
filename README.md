@@ -28,7 +28,7 @@
 
 [![Watch the video](https://github.com/SpartanHarshad/SpartanHarshad/blob/main/about_product_engineer.mp4)](https://github.com/SpartanHarshad/SpartanHarshad/blob/main/about_product_engineer.mp4)
 
-<!--<img align="right" alt="GIF" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/working.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/working.gif?raw=true" width="500" height="320" />
 
 
 
