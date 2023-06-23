@@ -23,7 +23,7 @@
 + 💻 Have interest in Product building (from feature addition to research to UI/UX to developement to funnel optimsation)
 + 📝 [Resume](https://drive.google.com/file/d/1YLhIScmF_J0dJDNJiVac7cQH0M07fcoh/view?usp=sharing)
 + 📝 [Portfolio](https://spartanharshad.github.io/)
-+ ⚡ Fun fact i think .....
++ ⚡ Fun fact : Don't Talk about Crush | Only Know About App Crash 
 + ✍️ Sharing my knowledge through Blogs <a>https://hashnode.com/@Harshad555</a> and Opensource Projects.
 
 <img align="right" alt="GIF" src="https://github.com/SpartanHarshad/SpartanHarshad/blob/main/working.gif?raw=true" width="500" height="320" />
