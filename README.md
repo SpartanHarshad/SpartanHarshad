@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I Am Harshad Pawar
-# from Nashik Maharashtra India 423203.
+# from India.
 
 <a href="https://www.linkedin.com/in/harshad-pawar5/">
   <img align="left" alt="Harshad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
